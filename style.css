@@ -535,7 +535,7 @@ footer {
 }
 
 .facebook {
-    background-image: url('social/fb.svg');
+    background-image: url('fb.svg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -546,12 +546,12 @@ footer {
 }
 
 .facebook:hover {
-    background-image: url('social/fb-hover.svg');
+    background-image: url('fb-hover.svg');
     transition: .4s;
 }
 
 .twitter {
-    background-image: url('social/twitter.svg');
+    background-image: url('twitter.svg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -562,12 +562,12 @@ footer {
 }
 
 .twitter:hover {
-    background-image: url('social/twitter-hover.svg');
+    background-image: url('twitter-hover.svg');
     transition: .4s;
 }
 
 .gmail {
-    background-image: url('social/gmail.svg');
+    background-image: url('gmail.svg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -578,7 +578,7 @@ footer {
 }
 
 .gmail:hover {
-    background-image: url('social/gmail-hover.svg');
+    background-image: url('gmail-hover.svg');
     transition: .4s;
 }
 
